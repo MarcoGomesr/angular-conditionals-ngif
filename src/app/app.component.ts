@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app';
+  // arr = [1,2,3,4,5,6];
+  // isTrue = true;
+  // myName: string  = "Marco";
+
+  
+
+
+  
 }
